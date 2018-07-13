@@ -1,0 +1,29 @@
+Link do webseminário: http://www.newsu.org/courses/digital_tools_fact_check_it
+Jornalistas: Daniel Funke (@dpfunke) e Ren LaForme (@itsren)
+
+
+Pesquisar as palavras-chaves no Google e ver se algum veículo tradicional cobriu o assunto
+Usar a busca avançada do Google: https://www.google.com/advanced_search
+Buscar as palavras-chaves dentro de sites de fact-checking, como Snopes
+Preste atenção às URLs e veja se ela pertence, de fato, a uma fonte confiável de informação (por exemplo, “abcnews.com.co” não é a mesma coisa que “abcnews.go.com”)
+Logos de empresa podem ser fajutos e são fáceis de ser copiados e, por isso, não confie no site apenas por causa disso
+Encontre quem realmente é dono do domínio em sites que dão informações sobre o domínio, como data de registro, data em que foi tirado do ar, nome, CPF, endereço, telefone: https://viewdns.info; who.is; https://dnshistory.org
+Site que guarda print screen dos sites, como https://archive.org/web/, e pode ser selecionado por data; https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak/related
+Dados sobre sites e audiência: buzzsumo.com (mostra os links mais bem sucedidos do site e por redes sociais, com variados filtros) + https://analytics.moz.com/pro/link-explorer/home (pago depois de 30 dias)
+Google Reverse Image Search
+RevEye - Extensão do Chrome que reúne vários buscadores, inclusive da Rússia e da China: https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf
+Olhar o metadata de imagens, como o tipo de arquivo, quando foi criado, onde a foto foi tirada (se essa informação constar) etc: http://exif.regex.info/exif.cgi
+Ferramenta que cria frames do vídeo que ajuda a encontrar ocorrências online: http://www.invid-project.eu/tools-and-services/invid-verification-plugin/
+Reverse image search a frame: https://www.tineye.com
+YouTube DataViewer: https://citizenevidence.amnestyusa.org
+VLC - Software que pode ajudar na análise do vídeo: https://www.videolan.org/vlc/index.html
+Twitter: analisar quando a conta foi criada; selo azul não significa que a gente seja confiável etc; http://www.celebritiestweets.com
+Usar a busca avançada do Twitter: https://twitter.com/search-advanced?lang=pt
+Análise de tweets de uma conta: https://accountanalysis.lucahammer.com
+Ferramenta que identifica quantos dos seguidores são bots: https://www.twitteraudit.com/
+Treeverse – Extensão do Chrome que mostra as interações entre os usuários do Twitter: https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila?hl=en
+Stalkscan – ferramenta para analisar dados do Facebook e fazer buscas melhores (muito bom!): stalkscan.com
+Comparar imagem ou vídeo com as imagens do Google Earth: http://earth.google.com/
+Wikipadia - wikimapia.org/
+Suncalc – mostra a posição do sol, das sombras de acordo com o momento do dia etc: suncalc.net/
+MapChecking – calcula a área de um determinado local e tb quantas pessoas caberiam ali: https://www.mapchecking.com/
