@@ -1,2 +1,2 @@
 # repositório de links para o combate às fake news
-em desenvolvimento
+https://gabrielacaesar.github.io/contra-as-fake-news/
