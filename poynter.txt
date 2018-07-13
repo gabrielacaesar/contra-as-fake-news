@@ -24,6 +24,6 @@ Ferramenta que identifica quantos dos seguidores são bots: https://www.twittera
 Treeverse – Extensão do Chrome que mostra as interações entre os usuários do Twitter: https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila?hl=en
 Stalkscan – ferramenta para analisar dados do Facebook e fazer buscas melhores (muito bom!): stalkscan.com
 Comparar imagem ou vídeo com as imagens do Google Earth: http://earth.google.com/
-Wikipadia - wikimapia.org/
+Wikimapia - wikimapia.org/
 Suncalc – mostra a posição do sol, das sombras de acordo com o momento do dia etc: suncalc.net/
 MapChecking – calcula a área de um determinado local e tb quantas pessoas caberiam ali: https://www.mapchecking.com/
