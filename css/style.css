@@ -3,6 +3,7 @@ body {
   text-align: center;
   font-family: monaco, monospace;
   background: url("../img/giphy.webp") 50%;
+  background-color: black;
   background-size: cover;
 }
 h1, h2 {
