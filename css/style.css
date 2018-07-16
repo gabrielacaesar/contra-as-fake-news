@@ -25,3 +25,8 @@ li {
   font-family: monaco;
   list-style-type: none;
 }  
+
+a {
+  text-decoration: none;
+  color: black;
+}
